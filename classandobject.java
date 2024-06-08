@@ -22,6 +22,7 @@ average = (float)total/2;
 void output(){
 System.out.println(sno+"\n"+name+"\n"+mark1+"\n"+mark2+"\n"+total+"\n"+average);
 }
+
 }
 
 
